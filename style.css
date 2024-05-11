@@ -1,0 +1,15 @@
+body {
+  background-color: #be5757;
+  margin: 0;
+}
+
+.formulario {
+  background-color: #ffffff;
+  margin-left: 30%;
+  margin-right: 30%;
+  border-radius: 15px;
+}
+
+footer {
+  margin-top: 200px;
+}
